@@ -1,0 +1,25 @@
+---
+title: "Our Services"
+#format: html
+#editor: visual
+---
+
+## Our Services 
+
+### 🧠 Clinical Neurology Consulting
+
+-   Complex case reviews
+-   Diagnostic clarification and second opinions
+-   Neurodegenerative and movement disorders
+
+### ⚖️ Medico-Legal Expertise
+
+-   Independent expert witness reports
+-   Personal injury and negligence cases
+-   Clear, court-ready documentation
+
+### 📊 Research & Industry Advisory
+
+-   Clinical trial protocol review
+-   Outcome interpretation
+-   Regulatory and scientific support
