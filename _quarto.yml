@@ -3,10 +3,10 @@ project:
   type: website
   output-dir: docs
 
-
-
 website:
   title: "KNC-Website"
+  favicon: favicon.ico
+  description: "Official website for KNC services"
   navbar:
     left:
       - href: index.qmd
@@ -25,5 +25,7 @@ format:
       - brand
     css: styles.css
     toc: true
+    base-url: "/"   # << moved here
+    code-line-numbers: true
 
 editor: visual
