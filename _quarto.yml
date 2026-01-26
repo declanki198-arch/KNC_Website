@@ -1,6 +1,8 @@
+
 project:
   type: website
-  #output-dir: docs ### removed as not pointing to website 
+  output-dir: .
+
 
 website:
   title: "KNC-Website"
