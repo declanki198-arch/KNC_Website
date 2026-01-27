@@ -1,1 +1,63 @@
-/* css styles */
+/* =============================== */
+/* Hero Section - Kings Neuro       */
+/* =============================== */
+
+.hero-image {
+  background-image: url("images/Blue_Brain.jpg");
+  height: 100vh;                 /* full screen */
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;   /* start from top */
+  align-items: center;           /* horizontal centering */
+  text-align: center;
+  color: white;
+  padding-top: 12%;              /* moves main title slightly below top */
+}
+
+.hero-text {
+  width: 100%;
+  text-align: center;
+  background: transparent;
+  padding: 0;
+}
+
+/* Main title */
+.hero-title {
+  margin-bottom: 2rem;           /* space between title and subtitle */
+}
+
+.hero-title h1 {
+  font-size: 3rem;
+  line-height: 1.1;
+  font-weight: 600;
+  text-shadow: 0 2px 8px rgba(0,0,0,0.6);
+}
+
+/* Subtitle block moved lower */
+.hero-subtitle {
+  max-width: 600px;
+  margin: 6rem auto 0 auto;      /* top margin moves entire block down */
+}
+
+.hero-subtitle h2 {
+  font-size: 1.8rem;
+  font-weight: 400;
+  margin-top: 0.5rem;            /* small gap between the two lines */
+  letter-spacing: 0.05em;
+  text-shadow: 0 2px 8px rgba(0,0,0,0.6);
+  text-align: center;
+}
+
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .hero-title h1 { font-size: 2.2rem; }
+  .hero-subtitle h2 { font-size: 1.4rem; margin-top: 0.8rem; }
+}
+
+@media (max-width: 480px) {
+  .hero-title h1 { font-size: 1.8rem; }
+  .hero-subtitle h2 { font-size: 1.2rem; margin-top: 0.6rem; }
+}

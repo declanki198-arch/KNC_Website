@@ -1,7 +1,21 @@
 ---
-title: "kings-neuro-consultants"
+title: "Kings-Neuro-Consultants"
+format: html
+execute:
+  echo: false
 ---
 
-This is a Quarto website.
+::: {.hero-image}
+::: {.hero-text}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+::: {.hero-title}
+# Welcome to Kings Neuro Consultants
+:::
+
+::: {.hero-subtitle}
+## Expert Neuro Care
+## Trusted Consultation
+:::
+
+:::
+:::
