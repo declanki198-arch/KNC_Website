@@ -1,11 +1,10 @@
-
 project:
   type: website
-  #output-dir: docs
+  output-dir: docs   # used when rendering for GitHub Pages
 
 website:
   title: "KNC-Website"
-  favicon: favicon.ico
+  favicon: favicon.ico          # optional
   description: "Official website for KNC services"
   navbar:
     left:
@@ -25,7 +24,9 @@ format:
       - brand
     css: styles.css
     toc: true
-    base-url: "/"   # << moved here
     code-line-numbers: true
+    # base-url ensures links work correctly for GitHub Pages
+    # when serving from /docs folder
+    base-url: "/"
 
 editor: visual
