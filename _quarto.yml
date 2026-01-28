@@ -6,14 +6,16 @@ website:
   title: "KNC-Website"
   favicon: favicon.ico          # optional
   description: "Official website for KNC services"
+
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - href: services.qmd
-        text: Services
       - href: about.qmd
         text: About
+      - href: services.qmd
+        text: Services
+    right:
       - href: contact.qmd
         text: Contact
 

@@ -5,17 +5,16 @@ execute:
   echo: false
 ---
 
-::: {.hero-image}
-::: {.hero-text}
-
-::: {.hero-title}
+:::::: hero-image
+::::: hero-text
+::: hero-title
 # Welcome to Kings Neuro Consultants
 :::
 
-::: {.hero-subtitle}
+::: hero-subtitle
 ## Expert Neuro Care
+
 ## Trusted Consultation
 :::
-
-:::
-:::
+:::::
+::::::

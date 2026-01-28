@@ -2,18 +2,22 @@
 /* Hero Section - Kings Neuro       */
 /* =============================== */
 
+/* =============================== */
+/* Mobile-first / default styling  */
+/* =============================== */
+
 .hero-image {
   background-image: url("images/Blue_Brain.jpg");
-  height: 100vh;                 /* full screen */
-  background-size: cover;
-  background-position: center;
+  height: 100vh;                  
+  background-size: cover;          /* full screen */
+  background-position: center;     /* center for mobile */
   display: flex;
   flex-direction: column;
-  justify-content: flex-start;   /* start from top */
-  align-items: center;           /* horizontal centering */
+  justify-content: flex-start;
+  align-items: center;
   text-align: center;
   color: white;
-  padding-top: 12%;              /* moves main title slightly below top */
+  padding-top: 12%;                /* main title slightly below top */
 }
 
 .hero-text {
@@ -25,7 +29,7 @@
 
 /* Main title */
 .hero-title {
-  margin-bottom: 2rem;           /* space between title and subtitle */
+  margin-bottom: 2rem;
 }
 
 .hero-title h1 {
@@ -35,29 +39,107 @@
   text-shadow: 0 2px 8px rgba(0,0,0,0.6);
 }
 
-/* Subtitle block moved lower */
+/* Subtitle block */
 .hero-subtitle {
   max-width: 600px;
-  margin: 6rem auto 0 auto;      /* top margin moves entire block down */
+  margin: 14rem auto 0 auto;       /* default for mobile-first */
 }
 
 .hero-subtitle h2 {
   font-size: 1.8rem;
   font-weight: 400;
-  margin-top: 0.5rem;            /* small gap between the two lines */
+  margin-top: 0.5rem;              
   letter-spacing: 0.05em;
   text-shadow: 0 2px 8px rgba(0,0,0,0.6);
   text-align: center;
 }
 
+/* =============================== */
+/* Desktop / large screens tweaks  */
+/* =============================== */
 
-/* Responsive adjustments */
-@media (max-width: 768px) {
-  .hero-title h1 { font-size: 2.2rem; }
-  .hero-subtitle h2 { font-size: 1.4rem; margin-top: 0.8rem; }
+@media (min-width: 769px) {
+
+  /* Hero container */
+  .hero-image {
+    height: 120vh;                  /* tall container so brain has space */
+    background-size: cover;
+    background-position: center;    /* keep brain centered visually */
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    padding-top: 12%;               /* distance from top to text */
+  }
+
+  /* Main text block */
+  .hero-text {
+    transform: translateY(7%);     /* moves entire text down relative to container */
+                                     /* adjust 5%-15% until it looks right */
+  }
+
+  /* Subtitles under main title */
+  .hero-subtitle {
+    margin-top: 17.5rem;               /* spacing between title and subtitles */
+    transform: translateY(0);       /* no extra shift needed */
+    max-width: 600px;
+  }
+
+  /* Fonts */
+  .hero-title h1 {
+    font-size: 3rem;
+  }
+
+  .hero-subtitle h2 {
+    font-size: 1.8rem;
+    margin-top: 0.5rem;
+  }
 }
 
+
+/* =============================== */
+/* Tablets / medium screens        */
+/* =============================== */
+@media (max-width: 768px) {
+
+  /* Main title */
+  .hero-title {
+    margin-top: 10rem;          /* move main title down on tablets */
+  }
+
+  .hero-title h1 {
+    font-size: 2.2rem;
+  }
+
+  /* Subtitles under main title */
+  .hero-subtitle {
+    margin-top: 18rem;          /* push subtitles further down on tablets */
+    max-width: 90%;             /* keep responsive width */
+  }
+
+  .hero-subtitle h2 {
+    font-size: 1.4rem;
+    margin-top: 0.5rem;         /* spacing between subtitle lines */
+  }
+}
+
+
+/* =============================== */
+/* Extra small screens / phones    */
+/* =============================== */
 @media (max-width: 480px) {
-  .hero-title h1 { font-size: 1.8rem; }
-  .hero-subtitle h2 { font-size: 1.2rem; margin-top: 0.6rem; }
+
+  .hero-title {
+    margin-top: 9rem;   /* title position on small phones */
+  }
+  .hero-title h1 {
+    font-size: 1.8rem;
+  }
+  .hero-subtitle {
+    margin-top: 23rem;   /* increase to push subtitles further down */
+  }
+  .hero-subtitle h2 {
+    font-size: 1.2rem;
+    margin-top: 0.3rem;
+  }
 }
