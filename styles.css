@@ -2,22 +2,18 @@
 /* Hero Section - Kings Neuro       */
 /* =============================== */
 
-/* =============================== */
-/* Mobile-first / default styling  */
-/* =============================== */
-
 .hero-image {
   background-image: url("images/Blue_Brain.jpg");
-  height: 100vh;                  
-  background-size: cover;          /* full screen */
-  background-position: center;     /* center for mobile */
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
   align-items: center;
   text-align: center;
   color: white;
-  padding-top: 12%;                /* main title slightly below top */
+  padding-top: 12%;
 }
 
 .hero-text {
@@ -42,13 +38,13 @@
 /* Subtitle block */
 .hero-subtitle {
   max-width: 600px;
-  margin: 14rem auto 0 auto;       /* default for mobile-first */
+  margin: 14rem auto 0 auto;
 }
 
 .hero-subtitle h2 {
   font-size: 1.8rem;
   font-weight: 400;
-  margin-top: 0.5rem;              
+  margin-top: 0.5rem;
   letter-spacing: 0.05em;
   text-shadow: 0 2px 8px rgba(0,0,0,0.6);
   text-align: center;
@@ -59,33 +55,27 @@
 /* =============================== */
 
 @media (min-width: 769px) {
-
-  /* Hero container */
   .hero-image {
-    height: 120vh;                  /* tall container so brain has space */
+    height: 120vh;
     background-size: cover;
-    background-position: center;    /* keep brain centered visually */
+    background-position: center;
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
     align-items: center;
-    padding-top: 12%;               /* distance from top to text */
+    padding-top: 12%;
   }
 
-  /* Main text block */
   .hero-text {
-    transform: translateY(7%);     /* moves entire text down relative to container */
-                                     /* adjust 5%-15% until it looks right */
+    transform: translateY(7%);
   }
 
-  /* Subtitles under main title */
   .hero-subtitle {
-    margin-top: 17.5rem;               /* spacing between title and subtitles */
-    transform: translateY(0);       /* no extra shift needed */
+    margin-top: 17.5rem;
+    transform: translateY(0);
     max-width: 600px;
   }
 
-  /* Fonts */
   .hero-title h1 {
     font-size: 3rem;
   }
@@ -96,50 +86,191 @@
   }
 }
 
-
 /* =============================== */
 /* Tablets / medium screens        */
 /* =============================== */
 @media (max-width: 768px) {
-
-  /* Main title */
   .hero-title {
-    margin-top: 10rem;          /* move main title down on tablets */
+    margin-top: 10rem;
   }
-
   .hero-title h1 {
     font-size: 2.2rem;
   }
-
-  /* Subtitles under main title */
   .hero-subtitle {
-    margin-top: 18rem;          /* push subtitles further down on tablets */
-    max-width: 90%;             /* keep responsive width */
+    margin-top: 18rem;
+    max-width: 90%;
   }
-
   .hero-subtitle h2 {
     font-size: 1.4rem;
-    margin-top: 0.5rem;         /* spacing between subtitle lines */
+    margin-top: 0.5rem;
   }
 }
-
 
 /* =============================== */
 /* Extra small screens / phones    */
 /* =============================== */
 @media (max-width: 480px) {
-
   .hero-title {
-    margin-top: 9rem;   /* title position on small phones */
+    margin-top: 9rem;
   }
   .hero-title h1 {
     font-size: 1.8rem;
   }
   .hero-subtitle {
-    margin-top: 23rem;   /* increase to push subtitles further down */
+    margin-top: 23rem;
   }
   .hero-subtitle h2 {
     font-size: 1.2rem;
     margin-top: 0.3rem;
+  }
+}
+
+/* =============================== */
+/* About Section Styling           */
+/* =============================== */
+
+.about-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 3rem;
+  margin: 4rem auto;
+  max-width: 1200px;
+  padding: 0 1rem;
+}
+
+.about-profile {
+  flex: 1 1 400px;
+  max-width: 500px;
+  text-align: center;
+}
+
+.about-profile img {
+  border-radius: 12px;
+  width: 100%;
+  height: auto;
+  margin-bottom: 1.5rem;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+/* Smaller photo specifically for Declan */
+.about-profile img.declan-photo {
+  max-width: 55%;
+}
+
+/* Name & title */
+.about-profile h3 {
+  margin-top: 0;
+  font-size: 1.8rem;
+}
+
+.about-profile h4 {
+  margin-top: 0.5rem;
+  font-weight: 400;
+  color: #222222; /* darker for readability */
+}
+
+/* Expertise section styling */
+.about-profile p.expertise-title {
+  font-weight: 700;
+  font-size: 1.2rem;
+  margin-top: 1rem;
+  margin-bottom: 0.8rem;
+  color: #222222;
+  text-align: center;
+}
+
+.about-profile ul.expertise-list {
+  list-style-type: disc;       /* filled bullets */
+  list-style-position: inside;
+  font-size: 1rem;
+  line-height: 1.6;
+  margin: 0 auto 1rem auto;
+  padding-left: 1rem;
+  color: #222222;
+  max-width: 300px;
+  text-align: left;            /* align bullets neatly */
+}
+
+.about-profile ul.expertise-list {
+  list-style-type: disc;          /* show bullets */
+  list-style-position: outside;   /* bullets outside text */
+  font-size: 1rem;
+  line-height: 1.6;
+  margin-left: 1.5rem;           /* space for bullets */
+  padding-left: 0;
+  color: #333333;                /* readable dark text */
+}
+
+.about-profile ul.expertise-list li {
+  font-weight: 700;               /* bold clinical points */
+  margin-bottom: 0.6rem;          /* spacing between items */
+  display: list-item;             /* restores bullets */
+}
+
+
+
+
+/* Separator banner */
+.profile-separator {
+  width: 100%;
+  text-align: center;
+  margin: 3rem 0 2rem 0;
+  position: relative;
+}
+
+.profile-separator span {
+  background-color: #1a1a1a;
+  color: #fff;
+  font-weight: 600;
+  padding: 0.5rem 1.5rem;
+  border-radius: 8px;
+  display: inline-block;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .about-container {
+    flex-direction: column;
+    gap: 2rem;
+    margin: 3rem auto;
+  }
+
+  .about-profile {
+    max-width: 90%;
+  }
+
+  .about-profile h3 {
+    font-size: 1.6rem;
+  }
+
+  .about-profile p.expertise-title {
+    font-size: 1.1rem;
+  }
+
+  .about-profile ul.expertise-list {
+    max-width: 80%;
+    margin: 0 auto 1rem auto;
+    text-align: left;
+  }
+}
+
+@media (max-width: 480px) {
+  .about-profile h3 {
+    font-size: 1.5rem;
+  }
+
+  .about-profile p.expertise-title {
+    font-size: 1rem;
+  }
+
+  .about-profile img.declan-photo {
+    max-width: 85%;
+  }
+
+  .about-profile ul.expertise-list {
+    max-width: 90%;
+    margin: 0 auto 1rem auto;
   }
 }

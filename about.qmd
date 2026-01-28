@@ -1,5 +1,75 @@
 ---
-title: "About"
+title: "About Us"
+format: html
+css: styles.css
 ---
 
-About this site
+# About Kings Neuro Consultants
+
+Kings Neuro Consultants brings together specialist neurological care and advanced neuroscience research to provide patients and families with clear, evidence-based insight into neurological health. Our approach combines clinical excellence, scientific rigour, and accessible communication to ensure patients feel informed, supported, and confident in their care.
+
+---
+
+## Meet the Team
+
+<div class="about-container">
+
+<div class="about-profile">
+
+![Dr. Hatice King](images/hatice.jpg){width=100%}
+
+### Dr. Hatice King  
+**Consultant Neurologist – Cork**
+
+Dr. Hatice King graduated with distinction from Istanbul University and completed specialist neurology training in 2018. She was awarded a research fellowship by the European Academy of Neurology, conducted research at the University of Edinburgh, and has held senior clinical roles in UK-wide motor neuron disease trials.
+
+<p class="expertise-title">Her clinical expertise includes:</p>
+<ul class="expertise-list">
+- **Multiple sclerosis (MS)**  
+- **Headache disorders and migraine**  
+- **Transient ischaemic attack (TIA)**  
+- **Epilepsy**  
+- **Stroke**  
+- **Functional neurological disorder (FND)**  
+- **General neurology**  
+</ul>
+
+</div>
+
+</div>
+
+<!-- Separator / banner -->
+<div class="profile-separator">
+  <span>Research & Consultancy</span>
+</div>
+
+<div class="about-container">
+
+<div class="about-profile">
+
+![Dr. Declan King](images/declan.jpg){width=100% class="declan-photo"}
+
+### Dr. Declan King  
+**Neuroscience Researcher & Consultant**  
+
+Dr. Declan King spent most of his 20+ years at the University of Edinburgh, conducting neuroscience research primarily using post-mortem tissue. During this time, he collaborated internationally with major pharmaceutical companies, the National Institutes of Health (NIH), and the Foundation for the NIH (FNIH).
+
+His research highlights include:  
+
+- Establishing **SV2A PET imaging as a biomarker of synaptic density in Alzheimer’s disease**, supporting its use in disease-modifying clinical trials.  
+- Investigating **synaptic resilience in ageing and neurodegenerative disease**, exploring how synaptic structure and molecular composition contribute to healthy cognitive ageing.  
+- With **27 peer-reviewed publications** in neuroscience and neurodegeneration.
+
+Dr. Declan King provides **consultancy services related to neuroscience research, biomarker development, and healthy ageing studies**. He does not provide medical advice, diagnosis, or treatment.
+
+</div>
+
+</div>
+
+---
+
+## Working Together
+
+By combining expert clinical care with cutting-edge neuroscience research, Kings Neuro Consultants offers patients and clients a uniquely informed perspective on neurological health — grounded in evidence, clarity, and compassion.
+
+*Medical advice, diagnosis, and treatment are provided solely by a qualified medical professional.*
