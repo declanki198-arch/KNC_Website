@@ -1,0 +1,45 @@
+---
+title: Patient Services
+format: html
+css: styles.css
+---
+
+
+
+Dr. Hatice King offers specialist neurology consultations for new and follow-up patients.  
+Appointments are delivered with care, clarity, and evidence-based guidance.
+
+Below are the main services offered.
+
+::: {.services-container}
+
+::: {.service-card}
+### New Consultant Appointment
+Comprehensive initial neurological assessment, including review of previous
+investigations and development of a personalised management plan.
+
+**€300**
+:::
+
+::: {.service-card}
+### Follow-up Appointment – In person
+Review of symptoms, investigations, and treatment progress, with clear guidance
+on next steps and ongoing care.
+
+**€185**
+:::
+
+::: {.service-card}
+### Follow-up Appointment – Phone
+Convenient telephone consultation for suitable follow-ups, particularly helpful
+for patients living further away.
+
+**€125**
+:::
+
+:::
+
+::: {.services-note}
+For patients travelling long distances, a phone follow-up can be arranged after
+an initial in-person consultation where appropriate.
+:::

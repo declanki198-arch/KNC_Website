@@ -1,0 +1,42 @@
+---
+title: Consultancy Services
+format: html
+css: styles.css
+---
+
+
+
+Dr. Declan King provides expert neuroscience consultancy for research, biomarker development, and healthy ageing studies.  
+
+Below are the main consultancy services offered, with pricing and brief descriptions.
+
+::: {.services-container}
+
+::: {.service-card}
+### SV2A PET Imaging Consultation
+Expert guidance on using SV2A PET as a biomarker of synaptic density in Alzheimer’s disease or other neurodegenerative research.
+
+
+:::
+
+::: {.service-card}
+### Synaptic Resilience Study Advice
+Consultancy on study design, analysis, and interpretation of synaptic resilience research in ageing or neurodegeneration.
+
+
+:::
+
+::: {.service-card}
+### General Neuroscience Consultancy
+Support for neuroscience research projects, trial planning, biomarker strategies, and related studies.
+
+
+:::
+
+:::
+
+<p class="services-note">
+All services are research/consultancy only. No medical advice, diagnosis, or treatment is provided.<br>
+Pricing varies depending on project scope and complexity. Please contact Dr. Declan King for a personalised quote.
+</p>
+

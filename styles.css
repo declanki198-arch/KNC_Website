@@ -274,3 +274,71 @@
     margin: 0 auto 1rem auto;
   }
 }
+
+/* =============================== */
+/* Patient Services Section Styling */
+/* =============================== */
+
+.services-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 2rem;
+  margin: 3rem auto;
+  max-width: 1200px;
+  padding: 0 1rem;
+}
+
+.service-card {
+  background-color: #f2f2f2;   /* light grey background */
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+  padding: 1.8rem 1.5rem;
+  flex: 1 1 300px;
+  max-width: 350px;
+  text-align: center;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.service-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 6px 18px rgba(0,0,0,0.25);
+}
+
+.service-card h3 {
+  font-size: 1.3rem;
+  margin-bottom: 1rem;
+  color: #1a1a1a;
+}
+
+.service-card p {
+  font-size: 1rem;
+  line-height: 1.5;
+  color: #333333;
+  margin-bottom: 0.8rem;
+}
+
+.service-card .service-price {
+  font-weight: 700;
+  font-size: 1.1rem;
+  color: #0055a5;   /* friendly blue accent */
+}
+
+.services-note {
+  text-align: center;
+  font-style: italic;
+  margin-top: 2rem;
+  color: #555555;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .services-container {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .service-card {
+    max-width: 90%;
+  }
+}

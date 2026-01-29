@@ -1,10 +1,10 @@
 project:
   type: website
-  output-dir: docs   # used when rendering for GitHub Pages
+  output-dir: docs
 
 website:
   title: "KNC-Website"
-  favicon: favicon.ico          # optional
+  favicon: favicon.ico
   description: "Official website for KNC services"
 
   navbar:
@@ -13,8 +13,10 @@ website:
         text: Home
       - href: about.qmd
         text: About
-      - href: services.qmd
-        text: Services
+      - href: patient-services.qmd
+        text: "Patient Services"       # Clinical services with Dr. Hatice King
+      - href: consultancy-services.qmd
+        text: "Consultancy Services"  # Research/consultancy with Dr. Declan King
     right:
       - href: contact.qmd
         text: Contact
@@ -27,8 +29,6 @@ format:
     css: styles.css
     toc: true
     code-line-numbers: true
-    # base-url ensures links work correctly for GitHub Pages
-    # when serving from /docs folder
     base-url: "/"
 
 editor: visual
