@@ -6,6 +6,7 @@ project:
 
 website:
   title: "KNC-Website"
+  site-url: "https://kingsneuroconsultants.com"  # Add this line
   favicon: favicon.ico
   description: "Official website for KNC services"
 
