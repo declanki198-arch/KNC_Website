@@ -16,6 +16,11 @@
   padding-top: 12%;
 }
 
+/* Hide the title from the YAML front matter */
+.quarto-title {
+    display: none; /* This hides the title */
+}
+
 .hero-text {
   width: 100%;
   text-align: center;
@@ -147,15 +152,18 @@
 
 .about-profile img {
   border-radius: 12px;
-  width: 100%;
-  height: auto;
+  width: 80%; /* Adjust this percentage as needed */
+  max-width: 400px; /* Set a maximum width */
+  height: auto; /* Maintain aspect ratio */
   margin-bottom: 1.5rem;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
 }
 
 /* Smaller photo specifically for Declan */
 .about-profile img.declan-photo {
-  max-width: 55%;
+  width: 60%; /* Match Hatice's width */
+  max-width: 400px; /* Match Hatice's max width */
+  height: auto; /* Maintain aspect ratio */
 }
 
 /* Name & title */

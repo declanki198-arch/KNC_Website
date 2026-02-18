@@ -8,7 +8,7 @@ execute:
 :::::: hero-image
 ::::: hero-text
 ::: hero-title
-# Welcome to Kings Neuro Consultants
+# Welcome to King's Neuro Consultants
 :::
 
 ::: hero-subtitle
