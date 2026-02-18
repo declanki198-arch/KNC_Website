@@ -166,7 +166,6 @@ ul.task-list li input[type="checkbox"] {
 <p><strong><em>Dr.&nbsp;Declan King - Strategic Research &amp; Biomarker Advisory</em></strong></p>
 <p><i class="fa-solid fa-phone" aria-label="phone"></i> +353851719782</p>
 <p><i class="fa-solid fa-envelope" aria-label="envelope"></i> kingsneuroconsultants@gmail.com</p>
-<p><i class="fa-solid fa-linkedin" aria-label="linkedin"></i> (https://www.linkedin.com/in/your-profile)</p>
 <p>Consultancy Engagement: For pharmaceutical partnerships or research design, please email to arrange a preliminary discovery call.</p>
 </div>
 </div>
@@ -247,7 +246,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/kingsneuroconsultants\.com");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

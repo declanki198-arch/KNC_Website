@@ -31,7 +31,6 @@ Referrals: For Dr. King to Cork Neurology accepted via Healthlink.
 
 {{< fa envelope >}} kingsneuroconsultants\@gmail.com
 
-{{< fa linkedin >}} (https://www.linkedin.com/in/your-profile)
 
 Consultancy Engagement: For pharmaceutical partnerships or research design, please email to arrange a preliminary discovery call.
 :::
