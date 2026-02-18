@@ -16,29 +16,26 @@ King's Neuro Consultants brings together specialist neurological care and advanc
 ::: about-profile
 <img src="images/hatice.jpg" style="width:100%;"/>
 
-### Dr. Hatice King
+### Dr. Hatice King \| Consultant Neurologist
 
-**Consultant Neurologist – Cork**
+**Specialist Private Neurology – Cork**
 
-Dr. Hatice King graduated with distinction from Istanbul University and completed specialist neurology training in 2018. She was awarded a research fellowship by the European Academy of Neurology, conducted research at the University of Edinburgh, and has held senior clinical roles in UK-wide motor neuron disease trials.
+Dr. Hatice King is a highly accomplished **Consultant Neurologist** who graduated with distinction from Istanbul University. After completing her specialist neurology training in 2018, she was awarded a prestigious research fellowship by the **European Academy of Neurology**.
+
+With a background in advanced research at the University of Edinburgh and senior clinical roles in major UK-wide Motor Neuron Disease (MND) clinical trials, Dr. King brings world-class academic expertise to private clinical practice.
+
 
 <p class="expertise-title">
-
-Her clinical expertise includes:
-
+**Specialist Clinical Expertise**
 </p>
 
-<ul class="expertise-list">
+* **Headache & Migraine:** Specialist management of chronic headaches and modern treatment options.
+* **Multiple Sclerosis (MS):** Comprehensive care and the latest disease-modifying strategies.
+* **Epilepsy & Seizure Management:** Expert diagnostic review and long-term management.
+* **Stroke & TIA:** Rapid assessment and secondary prevention strategies.
+* **Functional Neurological Disorder (FND):** Compassionate, specialist-led diagnostic pathways.
+* **General Neurology:** Expert consultation for Parkinson's, tremors, and unexplained symptoms.
 
--   **Multiple sclerosis (MS)**\
--   **Headache disorders and migraine**\
--   **Transient ischaemic attack (TIA)**\
--   **Epilepsy**\
--   **Stroke**\
--   **Functional neurological disorder (FND)**\
--   **General neurology**\
-
-</ul>
 :::
 ::::
 
