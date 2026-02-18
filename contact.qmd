@@ -29,8 +29,7 @@ Referrals: For Dr. King to Cork Neurology accepted via Healthlink.
 
 {{< fa phone >}} +353851719782
 
-{{< fa envelope >}} kingsneuroconsultants\@gmail.com
-
+{{< fa envelope >}} info@kingsneuroconsultants.com
 
 Consultancy Engagement: For pharmaceutical partnerships or research design, please email to arrange a preliminary discovery call.
 :::
