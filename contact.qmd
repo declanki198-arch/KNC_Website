@@ -15,7 +15,7 @@ css: styles.css
 
 {{< fa envelope >}} [hatice.kurucuking@healthmail.ie](mailto:hatice.kurucuking@healthmail.ie)
 
-{{< fa location-dot >}} Suite 16, Cork Clinic, <br>Western Road, Cork
+{{< fa location-dot >}} Suite 16, Cork Clinic, <br>Western Road, Cork, T12 PY26
 
 **Referrals:** Accepted via Healthlink.
 :::
