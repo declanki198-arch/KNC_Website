@@ -13,8 +13,9 @@ execute:
 
 ::: hero-subtitle
 ## Expert Neuro Care
-
 ## Trusted Consultation
+
+**Dr. Hatice King | Private Consultant Neurologist Cork**
 :::
 :::::
 ::::::
