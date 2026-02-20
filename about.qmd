@@ -24,18 +24,18 @@ Dr. Hatice King is a highly accomplished **Consultant Neurologist** who graduate
 
 With a background in advanced research at the University of Edinburgh and senior clinical roles in major UK-wide Motor Neuron Disease (MND) clinical trials, Dr. King brings world-class academic expertise to private clinical practice.
 
-
 <p class="expertise-title">
+
 **Specialist Clinical Expertise**
+
 </p>
 
-* **Headache & Migraine:** Specialist management of chronic headaches and modern treatment options.
-* **Multiple Sclerosis (MS):** Comprehensive care and the latest disease-modifying strategies.
-* **Epilepsy & Seizure Management:** Expert diagnostic review and long-term management.
-* **Stroke & TIA:** Rapid assessment and secondary prevention strategies.
-* **Functional Neurological Disorder (FND):** Compassionate, specialist-led diagnostic pathways.
-* **General Neurology:** Expert consultation for Parkinson's, tremors, and unexplained symptoms.
-
+-   **Headache & Migraine:** Specialist management of chronic headaches and modern treatment options.
+-   **Multiple Sclerosis (MS):** Comprehensive care and the latest disease-modifying strategies.
+-   **Epilepsy & Seizure Management:** Expert diagnostic review and long-term management.
+-   **Stroke & TIA:** Rapid assessment and secondary prevention strategies.
+-   **Functional Neurological Disorder (FND):** Compassionate, specialist-led diagnostic pathways.
+-   **General Neurology:** Expert consultation for Parkinson's, tremors, and unexplained symptoms.
 :::
 ::::
 
@@ -49,7 +49,7 @@ Research & Consultancy
 ::: about-profile
 <img src="images/declan.jpg" alt="Declan&apos;s Photo" class="declan-photo"/>
 
-### Dr. Declan King
+### Dr. Declan King | Director
 
 **Neuroscience Researcher & Consultant**
 
