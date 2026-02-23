@@ -94,25 +94,62 @@
 /* =============================== */
 /* Tablets / medium screens        */
 /* =============================== */
-@media (max-width: 768px) {
-  .hero-title {
-    margin-top: 10rem;
+@media (max-width: 1024px) {
+
+  /* Push whole hero content down */
+  .hero-image {
+    padding-top: 24%;
   }
+
+  /* Main title */
+  .hero-title {
+    margin-top: 0;
+  }
+
   .hero-title h1 {
     font-size: 2.2rem;
   }
+
+  /* Subtitle */
   .hero-subtitle {
-    margin-top: 18rem;
+    margin-top: 40rem;
     max-width: 90%;
   }
+
   .hero-subtitle h2 {
     font-size: 1.4rem;
     margin-top: 0.5rem;
   }
+
+}
+
+/* Very tall tablets (iPad Pro 12.9") */
+@media (max-width: 1024px) and (min-height: 1024px) {
+
+  .hero-image {
+    padding-top: 26%; /* keep same as iPad Air for consistency */
+  }
+
+  /* Move both title and subtitle down together */
+  .hero-text {
+    margin-top: 4rem;  /* small nudge for both elements */
+  }
+
+  .hero-title h1 {
+    font-size: 2.2rem; /* keep same font-size */
+  }
+
+  .hero-subtitle {
+    margin-top: 48rem; /* slightly lower than before to keep below brain */
+  }
+
+  .hero-subtitle h2 {
+    font-size: 1.4rem;
+  }
 }
 
 /* =============================== */
-/* Extra small screens / phones    */
+/* Large phones    */
 /* =============================== */
 @media (max-width: 480px) {
   .hero-title {
@@ -123,9 +160,60 @@
   }
   .hero-subtitle {
     margin-top: 19rem;
+    max-width: 90%;
   }
   .hero-subtitle h2 {
     font-size: 1.2rem;
+    margin-top: 0.3rem;
+  }
+}
+
+/* =============================== */
+/* Mid-small phones (iPhone Pro)   */
+/* =============================== */
+@media (max-width: 414px) and (min-width: 376px) {
+
+  .hero-title {
+    margin-top: 7rem;    /* moves title up slightly */
+  }
+
+  .hero-title h1 {
+    font-size: 1.7rem;
+  }
+
+  .hero-subtitle {
+    margin-top: 18rem;   /* moves subtitle up */
+    max-width: 90%;
+  }
+
+  .hero-subtitle h2 {
+    font-size: 1.15rem;
+    margin-top: 0.3rem;
+  }
+
+}
+
+
+/* ------------------------------- */
+/* Extra small phones (e.g., iPhone SE, small Androids) */
+/* ------------------------------- */
+@media (max-width: 375px) {
+
+  .hero-title {
+    margin-top: 6rem;
+  }
+
+  .hero-title h1 {
+    font-size: 1.6rem;
+  }
+
+  .hero-subtitle {
+    margin-top: 15rem;
+    max-width: 90%;
+  }
+
+  .hero-subtitle h2 {
+    font-size: 1.1rem;
     margin-top: 0.3rem;
   }
 }
