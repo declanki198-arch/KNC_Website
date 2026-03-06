@@ -4,9 +4,11 @@ format: html
 css: styles.css
 ---
 
-Dr. Declan King offers strategic advisory services for pharmaceutical, biotech, and academic partners. Leveraging 20+ years of research leadership, he provides specialized guidance on de-risking neurodegenerative pipelines through advanced biomarker integration and translational study design.
+**Dr. Declan King provides stategic advisory services to pharmaceutical, biotech, academic and longevity-focused ventures. **
 
-*Engagements are tailored to project scope and specific development milestones.*
+**Leveraging 20+ years of research leadership, he provides guidance on biomarker integration, translational neuroscience and brain ageing research. **
+
+*Engagements are tailored to project scope and technical complexity.*
 
 **Areas of Engagement:**
 
@@ -14,26 +16,28 @@ Dr. Declan King offers strategic advisory services for pharmaceutical, biotech, 
 ::: service-card
 ### Translational Biomarker Strategy
 
-Strategic guidance on the selection and validation of synaptic biomarkers (such as SV2A PET) for Phase I/II neurodegeneration programs. I help sponsors establish objective evidence of target engagement.
+Guidance on the selection and interpretation of synaptic biomarkers. Helps teams incorporate biomarker science into early-stage research planning and decision-making.
 :::
 
 ::: service-card
-### Synaptic Resilience & Study Design
+### Synaptic Resilience & Brain Ageing
 
-Advisory on the design and interpretation of studies investigating synaptic preservation. I provide expertise in bridging post-mortem molecular data with in-vivo imaging endpoints to de-risk drug development.
+Advisory on research programs investigating synaptic preservation and cognitive resilience. Bridges post-mortem molecular data with in-vivo imaging insights to support evidence-based study design.
 :::
 
 ::: service-card
 ### Scientific Advisory & Peer Review
 
-High-level consultancy for research project planning, trial methodology, and publication strategy, leveraging 20+ years of academic and industry-facing research experience.
+Expert input on research planning, study methodology and publication strategy. Draws on 20+ years of academic and industry-facing experience.
 :::
 ::::::
 
 <p class="services-note">
 
-*Ready to integrate advanced synaptic biomarkers into your next program?* **Contact Dr. Declan King** to discuss your project requirements and receive a tailored technical proposal.
+**Ready to discuss your project?**  
 
-**Professional Disclaimer** Dr. Declan King provides strategic neuroscience consultancy and research advisory services only. All insights and deliverables are intended for informational and research purposes and **do not constitute medical advice, diagnosis, or treatment.** Engagement terms and investment are determined by project scope and technical complexity.
+**Contact Dr. Declan King** to explore a tailored advisory engagement.
+
+**Professional Disclaimer:** Dr. Declan King provides strategic neuroscience consultancy and research advisory services only. All insights and deliverables are intended for informational and research purposes and **do not constitute medical advice, diagnosis, or treatment.** Engagement terms and investment are determined by project scope and technical complexity.
 
 </p>
