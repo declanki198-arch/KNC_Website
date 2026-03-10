@@ -4,17 +4,27 @@ format: html
 css: styles.css
 ---
 
+---
+title: Contact
+format: html
+css: styles.css
+---
+
 ::::: grid
 ::: {.g-col-12 .g-col-md-6}
 ### {{< fa hospital-user >}} Neurology Clinic
 
 **Dr. Hatice King** *Consultant Neurologist*
 
-{{< fa phone >}} 021 4865730
+{{< fa phone >}} <a href="tel:0214865730">021 4865730</a>
 
-{{< fa envelope >}} [hatice.kurucuking\@healthmail.ie](mailto:hatice.kurucuking@healthmail.ie)
+{{< fa envelope >}} <a href="mailto:hatice.kurucuking@healthmail.ie">hatice.kurucuking@healthmail.ie</a>
 
-{{< fa location-dot >}} Cork Clinic, Block B Suite 16, <br>Western Road, Cork, T12 PY26
+{{< fa location-dot >}} <a href="https://www.google.com/maps?q=51.894111,-8.497762" target="_blank">Cork Clinic, Block B Suite 16,<br>Western Road, Cork, T12 PY26</a>
+
+
+
+
 
 **Referrals:** Accepted via Healthlink.
 :::
@@ -24,9 +34,9 @@ css: styles.css
 
 **Dr. Declan King** *Director of Research & Operations*
 
-{{< fa phone >}} +353 85 171 9782
+{{< fa phone >}} <a href="tel:+353851719782">+353 85 171 9782</a>
 
-{{< fa envelope >}} [info\@kingsneuroconsultants.com](mailto:info@kingsneuroconsultants.com)
+{{< fa envelope >}} <a href="mailto:info@kingsneuroconsultants.com">info@kingsneuroconsultants.com</a>
 
 **Consultancy:** For pharmaceutical partnerships or research design, please email to arrange a preliminary discovery call.
 :::
