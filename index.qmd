@@ -12,14 +12,13 @@ execute:
 :::
 
 ::: hero-subtitle
-## Expert Neuro Care
+## Expert Neurology Care
+
 ## Trusted Consultation
 
-**Dr. Hatice King | Private Consultant Neurologist Cork**
+**Dr. Hatice King \| Private Consultant Neurologist Cork**
 
-**Dr. Declan King | Director of Research & Operations**
+**Dr. Declan King \| Director of Research & Operations**
 :::
-
-
 :::::
 ::::::

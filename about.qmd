@@ -6,16 +6,12 @@ css: styles.css
 
 # About King's Neuro Consultants
 
-King’s Neuro Consultants brings together specialist neurological care and advanced neuroscience expertise.
-Our approach combines clinical excellence and scientific rigour to provide:
+King’s Neuro Consultants brings together specialist neurological care and advanced neuroscience expertise. Our approach combines clinical excellence and scientific rigour to provide:
 
--   **Patients with clear, evidence-based neurological care** \
--   **Research and industry partners with strategic scientific insight** \
+-   **Patients with clear, evidence-based neurological care**\
+-   **Research and industry partners with strategic scientific insight**\
 
 Clinical services and research consultancy operate as distinct professional activities within the organisation
-
-
-
 
 ------------------------------------------------------------------------
 
@@ -29,9 +25,11 @@ Clinical services and research consultancy operate as distinct professional acti
 
 **Specialist Private Neurology – Cork**
 
-Dr. Hatice King is a highly accomplished **Consultant Neurologist** who graduated with distinction from Istanbul University. After completing her specialist neurology training in 2018, she was awarded a prestigious research fellowship by the **European Academy of Neurology**.
+Dr. Hatice King is a highly accomplished **Consultant Neurologist** who graduated with distinction from Istanbul University, Turkey. After completing her specialist neurology training in 2018, she was awarded a prestigious research fellowship by the **European Academy of Neurology**.
 
-With a background in advanced research at the University of Edinburgh and senior clinical roles in major UK-wide Motor Neuron Disease (MND) clinical trials, Dr. King brings world-class academic expertise to private clinical practice.
+With a background in advanced research at the **University of Edinburgh**, **senior clinical roles** in major UK-wide **Motor Neuron Disease** (MND) and **Multiple Sclerosis** (MS) clinical trials and extensive experience working within the **UK's National Health Service** (NHS), Dr. King brings world-class academic expertise to private clinical practice.
+
+She is a member of the European Academy of Neurology, the Irish Institute of Clinical Neuroscience and the Royal College of Physicians of Ireland.
 
 <p class="expertise-title">
 
@@ -39,12 +37,12 @@ With a background in advanced research at the University of Edinburgh and senior
 
 </p>
 
--   **Headache & Migraine:** Specialist management of chronic headaches and modern treatment options.
+-   **Headache & Migraine:** Specialist management of headache syndromes and modern treatment options.
 -   **Multiple Sclerosis (MS):** Comprehensive care and the latest disease-modifying strategies.
 -   **Epilepsy & Seizure Management:** Expert diagnostic review and long-term management.
--   **Stroke & TIA:** Rapid assessment and secondary prevention strategies.
+-   **Stroke & TIA:** Timely outpatient management of underlying risk factors and secondary prevention strategies.
 -   **Functional Neurological Disorder (FND):** Compassionate, specialist-led diagnostic pathways.
--   **General Neurology:** Expert consultation for Parkinson's, tremors, and unexplained symptoms.
+-   **General Neurology:** Expert assessment and management of common neurological conditions, as well as neurodegenerative disorders including Parkinson's disease, Alzheimer's disease and other dementia syndromes.
 :::
 ::::
 
@@ -74,17 +72,16 @@ His career includes high-impact collaborations with **global pharmaceutical lead
 
 -   **Synaptic Resilience & Brain Ageing:** Extensive experience investigating the molecular architecture of the "resilient brain," providing evidence-based insights into how synaptic composition protects against cognitive decline in ageing and neurodegeneration.\
 
--   **Multimodal Research Leadership:** Author of over 25 peer-reviewed publications spanning post-mortem human tissue, animal models, and advanced molecular imaging to bridge the gap between basic research and translational application.
+-   **Multimodal Research Leadership:** Author of over 25 peer-reviewed publications spanning post-mortem human tissue, animal models and advanced molecular imaging to bridge the gap between basic research and translational application.
 
 **Consultancy Service**
 
-Dr. Declan King advises pharmaceutical, biotech, academic, and longevity-focused ventures on:
+Dr. Declan King advises pharmaceutical, biotech, academic and longevity-focused ventures on:
 
--   **Translational strategy and biomarker integration **\
+-   **Translational strategy and biomarker integration** \
 -   **Scientific insight into synaptic resilience and brain ageing**\
 -   **Evidence-based research guidance for early-stage projects**\
 
-Dr. Declan King provides consultancy only. This is not medical advice, diagnosis, or treatment.
 :::
 ::::
 
